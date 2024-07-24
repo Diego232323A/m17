@@ -1,0 +1,12 @@
+{
+  "name": "healthcheck-service",
+  "version": "1.0.0",
+  "description": "Microservice for health check",
+  "main": "healthCheck.js",
+  "scripts": {
+    "start": "node healthCheck.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
